@@ -1,0 +1,4 @@
+Orange Pi Lite
+==============
+
+add rtl8189fs driver to path : lichee/linux-3.4/drivers/net/wireless
