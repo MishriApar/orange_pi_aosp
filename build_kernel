@@ -1,0 +1,2 @@
+cd /lichee
+./build.sh lunch -> select you flavour
