@@ -1,2 +1,2 @@
-# orange_pi_aosp
+# Orange Pi AOSP
 Step by step guide for various peripherical
