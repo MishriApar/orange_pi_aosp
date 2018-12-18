@@ -25,3 +25,4 @@ Follow sequence of command for build
 2 lunch -> select your flavor
 3 extract-bsp
 4 make
+5 pack
