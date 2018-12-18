@@ -20,8 +20,8 @@ For packages
 * NOTE :  use mingw-w64 for newer ubuntu OSs
   
 2 sudo apt-get install ubuntu-desktop xorg
-
 3 sudo apt-get install libswitch-perl u-boot-tools
+4 sudo apt-get install gawk
 
 ------------
 link packages
