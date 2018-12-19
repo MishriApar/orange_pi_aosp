@@ -1,5 +1,5 @@
 # Orange Pi LITE AOSP
-Step by step guide for various peripherical support in Orange PI AOSP
+Step by step guide for various peripheral support in Orange PI AOSP
 
 *****************
 * Install only  
